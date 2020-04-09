@@ -1,3 +1,4 @@
 #1 /bin/sh.
 
 sudo /opt/lampp/lampp start
+sudo /opt/lampp.lampp stop
